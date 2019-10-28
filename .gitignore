@@ -1,0 +1,6 @@
+logs/
+*.zip
+*.rar
+upload/
+version/
+development/

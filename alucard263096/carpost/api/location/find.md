@@ -1,0 +1,1 @@
+参数{lng:"经度",lat:"维度"}，可用百度测试http://api.map.baidu.com/lbsapi/getpoint/index.html
